@@ -6,11 +6,7 @@
 
 *An intelligent battery health monitoring system leveraging data science techniques to analyze Li-ion battery performance, predict degradation patterns, and derive actionable insights from real-time telemetry data.*
 
-[![React](https://img.shields.io/badge/React-18.3-61DAFB?logo=react)](https://reactjs.org/)
-[![Data Visualization](https://img.shields.io/badge/Recharts-2.12-8884d8?logo=chart.js)](https://recharts.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript)](https://www.javascript.com/)
-
-![Dashboard Overview](./screenshots/dashboard-overview.png)
+![Dashboard Overview]("C:\Users\Rajat Kumar\Pictures\Screenshots\Screenshot 2025-12-12 222005.png")
 
 [Live Demo](#) | [Features](#features) | [Installation](#installation) | [Data Analysis](#key-findings--insights)
 
@@ -41,7 +37,7 @@ This project demonstrates **end-to-end data analytics** and **machine learning r
 
 ### � Ienteractive Visualizations
 
-![Cycle Navigation](./screenshots/cycle-navigation.png)
+![Cycle Navigation]("C:\Users\Rajat Kumar\Pictures\Screenshots\Screenshot 2025-12-12 221021.png")
 *Intuitive cycle navigation with slider, dropdown, and quick-jump controls*
 
 #### Key Dashboard Components:
@@ -52,7 +48,7 @@ This project demonstrates **end-to-end data analytics** and **machine learning r
 - Previous/Next cycle controls for sequential analysis
 
 **2. Performance Dashboard**
-![Performance Metrics](./screenshots/performance-metrics.png)
+![Performance Metrics]("C:\Users\Rajat Kumar\Pictures\Screenshots\Screenshot 2025-12-12 221147.png")
 *Real-time performance metrics including voltage, temperature, and movement data*
 
 - Real-time voltage, temperature, speed, and distance metrics
@@ -60,7 +56,7 @@ This project demonstrates **end-to-end data analytics** and **machine learning r
 - Color-coded health indicators
 
 **3. Temperature Distribution Analysis**
-![Temperature Distribution](./screenshots/temperature-distribution.png)
+![Temperature Distribution]("C:\Users\Rajat Kumar\Pictures\Screenshots\Screenshot 2025-12-12 221214.png")
 *Interactive temperature histogram with adjustable sampling rates*
 
 - Histogram visualization with toggle between 4 sampling rates (5°C, 10°C, 15°C, 20°C)
@@ -68,7 +64,7 @@ This project demonstrates **end-to-end data analytics** and **machine learning r
 - Thermal behavior pattern recognition
 
 **4. Battery Health Monitoring**
-![Battery Health](./screenshots/battery-health.png)
+![Battery Health]("C:\Users\Rajat Kumar\Pictures\Screenshots\Screenshot 2025-12-12 221228.png")
 *SOC and SOH visualization with color-coded health indicators*
 
 - SOC visualization with color-coded progress bars (green/yellow/orange/red)
@@ -77,7 +73,7 @@ This project demonstrates **end-to-end data analytics** and **machine learning r
 - LFP battery lifecycle information
 
 **5. Long-Term Trends**
-![Long-Term Trends](./screenshots/long-term-trends.png)
+![Long-Term Trends]("C:\Users\Rajat Kumar\Pictures\Screenshots\Screenshot 2025-12-12 221256.png")
 *Comprehensive trend analysis with SOH degradation curves and statistical summaries*
 
 - Cumulative SOH degradation curve with zoom functionality
@@ -86,7 +82,7 @@ This project demonstrates **end-to-end data analytics** and **machine learning r
 - Statistical summary cards
 
 **6. Alerts & Safety Monitoring**
-![Alerts Panel](./screenshots/alerts-panel.png)
+![Alerts Panel]("C:\Users\Rajat Kumar\Pictures\Screenshots\Screenshot 2025-12-12 221912.png")
 *Real-time alert monitoring for warnings and protection events*
 
 - Warning and protection event display
@@ -94,7 +90,7 @@ This project demonstrates **end-to-end data analytics** and **machine learning r
 - Safety event logging
 
 **7. Charging Insights**
-![Charging Insights](./screenshots/charging-insights.png)
+![Charging Insights]("C:\Users\Rajat Kumar\Pictures\Screenshots\Screenshot 2025-12-12 221313.png")
 *Charging pattern analysis with best practice recommendations*
 
 - Charging instances tracking
@@ -334,7 +330,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 **Built with ❤️ for Battery Analytics & Data Science**
 
 ⭐ Star this repository if you find it useful!
-
-[Report Bug](https://github.com/rohit-kumar26/Battery-Analytics-Dashboard/issues) · [Request Feature](https://github.com/rohit-kumar26/Battery-Analytics-Dashboard/issues)
-
-</div>
