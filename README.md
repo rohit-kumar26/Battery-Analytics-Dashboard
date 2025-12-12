@@ -6,8 +6,7 @@
 
 *An intelligent battery health monitoring system leveraging data science techniques to analyze Li-ion battery performance, predict degradation patterns, and derive actionable insights from real-time telemetry data.*
 
-![Dashboard<img width="1500" height="902" alt="Screenshot 2025-12-12 222005" src="https://github.com/user-attachments/assets/54c4ae7c-c2e9-46c6-88b0-02dead34eff8" />
- Overview]
+<img width="1500" height="902" alt="Screenshot 2025-12-12 222005" src="https://github.com/user-attachments/assets/54c4ae7c-c2e9-46c6-88b0-02dead34eff8" />
 
 [Live Demo](#) | [Features](#features) | [Installation](#installation) | [Data Analysis](#key-findings--insights)
 
@@ -38,8 +37,8 @@ This project demonstrates **end-to-end data analytics** and **machine learning r
 
 ### � Ienteractive Visualizations
 
-![Cycle Nav<img width="1865" height="461" alt="Screenshot 2025-12-12 221021" src="https://github.com/user-attachments/assets/5d524c57-638c-43a7-a9d0-395277a00d55" />
-igation]
+<img width="1865" height="461" alt="Screenshot 2025-12-12 221021" src="https://github.com/user-attachments/assets/5d524c57-638c-43a7-a9d0-395277a00d55" />
+
 *Intuitive cycle navigation with slider, dropdown, and quick-jump controls*
 
 #### Key Dashboard Components:
@@ -50,8 +49,8 @@ igation]
 - Previous/Next cycle controls for sequential analysis
 
 **2. Performance Dashboard**
-![Performance <img width="909" height="580" alt="Screenshot 2025-12-12 221147" src="https://github.com/user-attachments/assets/c4978e77-3b66-417c-a551-d5554569808b" />
-Metrics]
+<img width="909" height="580" alt="Screenshot 2025-12-12 221147" src="https://github.com/user-attachments/assets/c4978e77-3b66-417c-a551-d5554569808b" />
+
 *Real-time performance metrics including voltage, temperature, and movement data*
 
 - Real-time voltage, temperature, speed, and distance metrics
@@ -59,8 +58,7 @@ Metrics]
 - Color-coded health indicators
 
 **3. Temperature Distribution Analysis**
-![Temperature Distrib<img width="906" height="562" alt="Screenshot 2025-12-12 221214" src="https://github.com/user-attachments/assets/4918bfdc-fb02-45fc-bbbd-61cefe49de96" />
-ution] 
+<img width="906" height="562" alt="Screenshot 2025-12-12 221214" src="https://github.com/user-attachments/assets/4918bfdc-fb02-45fc-bbbd-61cefe49de96" />
 *Interactive temperature histogram with adjustable sampling rates*
 
 - Histogram visualization with toggle between 4 sampling rates (5°C, 10°C, 15°C, 20°C)
@@ -68,8 +66,7 @@ ution]
 - Thermal behavior pattern recognition
 
 **4. Battery Health Monitoring**
-![Battery H<img width="907" height="560" alt="Screenshot 2025-12-12 221228" src="https://github.com/user-attachments/assets/9152f9b6-d141-4f57-8768-0977f7b19e87" />
-ealth]
+<img width="907" height="560" alt="Screenshot 2025-12-12 221228" src="https://github.com/user-attachments/assets/9152f9b6-d141-4f57-8768-0977f7b19e87" />
 *SOC and SOH visualization with color-coded health indicators*
 
 - SOC visualization with color-coded progress bars (green/yellow/orange/red)
@@ -78,8 +75,7 @@ ealth]
 - LFP battery lifecycle information
 
 **5. Long-Term Trends**
-![Long-T<img width="1839" height="552" alt="Screenshot 2025-12-12 221256" src="https://github.com/user-attachments/assets/744a2f0f-653d-43b4-a0ac-2326fa8cd0b3" />
-erm Trends] 
+<img width="1839" height="552" alt="Screenshot 2025-12-12 221256" src="https://github.com/user-attachments/assets/744a2f0f-653d-43b4-a0ac-2326fa8cd0b3" /> 
 *Comprehensive trend analysis with SOH degradation curves and statistical summaries*
 
 - Cumulative SOH degradation curve with zoom functionality
@@ -88,8 +84,7 @@ erm Trends]
 - Statistical summary cards
 
 **6. Alerts & Safety Monitoring**
-![Alerts P<img width="907" height="516" alt="Screenshot 2025-12-12 221912" src="https://github.com/user-attachments/assets/cdc7bad2-86c7-45f2-bc6b-aa1de28bfb51" />
-anel] 
+<img width="907" height="516" alt="Screenshot 2025-12-12 221912" src="https://github.com/user-attachments/assets/cdc7bad2-86c7-45f2-bc6b-aa1de28bfb51" />
 *Real-time alert monitoring for warnings and protection events*
 
 - Warning and protection event display
@@ -97,8 +92,7 @@ anel]
 - Safety event logging
 
 **7. Charging Insights**
-![Char<img width="889" height="511" alt="Screenshot 2025-12-12 221313" src="https://github.com/user-attachments/assets/428b871f-2aaf-4387-b164-737de83d0642" />
-ging Insights] 
+<img width="889" height="511" alt="Screenshot 2025-12-12 221313" src="https://github.com/user-attachments/assets/428b871f-2aaf-4387-b164-737de83d0642" />
 *Charging pattern analysis with best practice recommendations*
 
 - Charging instances tracking
