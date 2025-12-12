@@ -1,9 +1,7 @@
 import axios from 'axios';
 
-// Use proxy in development, direct URL in production
-const BASE_URL = import.meta.env.DEV 
-  ? '' // Use proxy in development
-  : 'https://zenfinity-intern-api-104290304048.europe-west1.run.app';
+// Always use direct URL (Vercel doesn't support proxy)
+const BASE_URL = 'https://zenfinity-intern-api-104290304048.europe-west1.run.app';
 
 const api = axios.create({
   baseURL: BASE_URL,
