@@ -6,7 +6,8 @@
 
 *An intelligent battery health monitoring system leveraging data science techniques to analyze Li-ion battery performance, predict degradation patterns, and derive actionable insights from real-time telemetry data.*
 
-![Dashboard Overview]("C:\Users\Rajat Kumar\Pictures\Screenshots\Screenshot 2025-12-12 222005.png")
+![Dashboard<img width="1500" height="902" alt="Screenshot 2025-12-12 222005" src="https://github.com/user-attachments/assets/54c4ae7c-c2e9-46c6-88b0-02dead34eff8" />
+ Overview]
 
 [Live Demo](#) | [Features](#features) | [Installation](#installation) | [Data Analysis](#key-findings--insights)
 
@@ -37,7 +38,8 @@ This project demonstrates **end-to-end data analytics** and **machine learning r
 
 ### � Ienteractive Visualizations
 
-![Cycle Navigation]("C:\Users\Rajat Kumar\Pictures\Screenshots\Screenshot 2025-12-12 221021.png")
+![Cycle Nav<img width="1865" height="461" alt="Screenshot 2025-12-12 221021" src="https://github.com/user-attachments/assets/5d524c57-638c-43a7-a9d0-395277a00d55" />
+igation]
 *Intuitive cycle navigation with slider, dropdown, and quick-jump controls*
 
 #### Key Dashboard Components:
